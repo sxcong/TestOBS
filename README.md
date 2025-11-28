@@ -26,3 +26,6 @@ OBSBasic ob;
 ob.Screenshot(desktop_source);
 
 This is the code in OBS Studio, Remove Qt related content.
+
+<img width="2044" height="1181" alt="image" src="https://github.com/user-attachments/assets/5861f794-c171-43e3-90c4-ed26a30f352d" />
+
