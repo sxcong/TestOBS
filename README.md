@@ -29,3 +29,6 @@ This is the code in OBS Studio, Remove Qt related content.
 
 <img width="2044" height="1181" alt="image" src="https://github.com/user-attachments/assets/5861f794-c171-43e3-90c4-ed26a30f352d" />
 
+There is an exception when exiting, which can be ignored. Just compile and replace the DLL yourself.After all, this is just a sample.
+
+<img width="1113" height="911" alt="image" src="https://github.com/user-attachments/assets/34e00e97-6230-4d9f-bebd-6d96eea7eff0" />
